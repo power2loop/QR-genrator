@@ -26,3 +26,7 @@ JavaScript (Vanilla) – QR code generation logic
 
 QR Code API / Library – For generating the QR image (e.g., qrserver.com API or QRCode.js)
 
+<img width="538" height="600" alt="image" src="https://github.com/user-attachments/assets/0ba901bc-e1bb-403b-8d01-5517e2ba508c" />
+
+
+
